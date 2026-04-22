@@ -2,7 +2,7 @@ customers = [
     ["Max", "Mustermann", "01.01.83"],
     ["Martina", "Musterfrau", "02.02.84"],
     ["Gabi", "Meier", "03.03.85"]
-]
+    ]
 
 max_mustermann = ("Max", "Mustermann", "01.01.83")
 
